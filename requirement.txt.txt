@@ -1,0 +1,11 @@
+cd Scripts && activate 
+cd ..
+pip install matplotlib
+pip install numpy
+
+py app.py
+
+username == admin
+password == admin
+
+
